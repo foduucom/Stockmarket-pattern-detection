@@ -1,0 +1,1 @@
+# Stockmarket-pattern-detection
