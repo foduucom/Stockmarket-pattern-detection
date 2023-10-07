@@ -105,5 +105,5 @@ Individual patterns: Varies based on pattern type
 Model Architecture and Objective
 The YOLOv8s architecture incorporates modifications tailored to stock market pattern detection. It features a specialized backbone network, self-attention mechanisms, and pattern-specific feature extraction modules.
 
-## Contact 
+## Contact us
 For inquiries and contributions, please contact us at - [info@foduu.com](mailto:info@foduu.com)
