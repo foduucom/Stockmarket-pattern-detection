@@ -1,4 +1,5 @@
 # Stockmarket-pattern-detection
+[![](https://img.shields.io/badge/hugging_face-space-yellow)](https://huggingface.co/spaces/foduucom/stockmarket-future-prediction)
 ![](https://github.com/foduucom/Stockmarket-pattern-detection/blob/main/thumbnail.jpg)
 
 ## Summary
